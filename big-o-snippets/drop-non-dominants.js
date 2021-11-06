@@ -15,6 +15,6 @@ function logItems(n){
 
 //O(n * n) + O(n) => O(n ^ 2) + O(n) => O(n ^ 2)
 
-//Drop O(n), because is non-dominant.
+//Drop O(n), because is non-dominant term.
 
 logItems(10);
