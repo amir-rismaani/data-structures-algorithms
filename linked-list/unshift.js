@@ -27,5 +27,5 @@ class LinkeList {
     }
 } 
 
-let myLinkedList = new LinkeList(null);
+let myLinkedList = new LinkeList(4);
 myLinkedList.unshift(11);
