@@ -19,4 +19,4 @@ Linked list have a variable called **`head`** that points to the first item and 
 
 ## Useful link
 
-- [Big-O Linked List vs Array](./assets/files/BigO.pdf)
+- [Big-O Linked List vs Array](../assets/files/BigO.pdf)
