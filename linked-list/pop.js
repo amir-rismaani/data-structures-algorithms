@@ -56,3 +56,4 @@ let myLinkedList = new LinkeList(4);
 myLinkedList.push(11);
 myLinkedList.push(8);
 myLinkedList.push(17);
+myLinkedList.pop(); //remove last item
