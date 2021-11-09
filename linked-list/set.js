@@ -50,4 +50,4 @@ let myLinkedList = new LinkeList(4);
 myLinkedList.push(11);
 myLinkedList.push(8);
 myLinkedList.push(17);
-myLinkedList.get(2) // get 2th item/node of linked list
+myLinkedList.set(2,313) // set 2th item/node of linked list
