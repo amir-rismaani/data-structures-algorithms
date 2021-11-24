@@ -16,3 +16,7 @@ So a perfect tree will always be full. It will always be complete.
 - **Children:** Child node can also be parents of two nodes.
 - **Leaf:** A node that doesn't have any children is called a leaf.
 - **Siblings:** Two children, because they have the same parent, are also called siblings.
+
+# Structure of Binary Search Trees
+
+I want to point out here is that all of the items to the rigth of the `head` are greater than `head`. All of the items to the left are less than. And then also if you look at another node, everything to the left of it is going to be less than and everything to the right is going to greater than.
